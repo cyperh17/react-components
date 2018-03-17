@@ -1,0 +1,5 @@
+{
+  "private": true,
+  "name": "FieldList",
+  "main": "./index.js"
+}
